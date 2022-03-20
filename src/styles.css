@@ -34,3 +34,8 @@ h1 {
   font-weight: bold;
   text-align: center;
 }
+.link {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
