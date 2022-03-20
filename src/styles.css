@@ -1,0 +1,36 @@
+body {
+  background-image: url(/photo/beach.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+  background-color: darkblue;
+}
+
+.topnav {
+  float: left;
+  display: block;
+  padding: 15px;
+}
+.container {
+  display: block;
+  text-align: center;
+}
+.row {
+  margin: auto;
+  text-align: center;
+}
+.list-group-flush {
+  margin: auto;
+}
+.card-header {
+  color: white;
+  background-color: darkblue;
+  margin: auto;
+  font-weight: bold;
+  text-align: center;
+}
